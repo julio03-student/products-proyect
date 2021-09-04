@@ -1,0 +1,31 @@
+{
+  "name": "products-api-rest",
+  "version": "1.0.0",
+  "description": "Productss api rest",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julio03-student/products-proyect.git"
+  },
+  "keywords": [
+    "academic",
+    "product",
+    "api",
+    "rest"
+  ],
+  "author": "Julián Rivera Castaño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julio03-student/products-proyect/issues"
+  },
+  "homepage": "https://github.com/julio03-student/products-proyect#readme",
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.4",
+    "mongoose-unique-validator": "^2.0.3"
+  }
+}

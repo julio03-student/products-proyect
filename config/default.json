@@ -1,0 +1,11 @@
+{
+    "db-conecctions": {
+        "mongodb": {
+            "host": "cluster0.aynma.mongodb.net",
+            "user": "user_api2021",
+            "password": "f5kX61QlmOkYxauF",
+            "dbname": "AcademicDB"
+        }
+    },
+    "server-port": 3000
+}
