@@ -19,27 +19,26 @@ const productSchema = new mongoose.Schema({
     existence:{
         type: "Number",
         required: true,
-        unique: true
     },
     calification:{
         type: "Number",
         required: true,
-        unique: true
+        
     },
     category:{
         type: "String",
         required: true,
-        unique: true
+       
     },
     mark:{
         type: "String",
         required: true,
-        unique: true
+       
     },
     discount:{
         type: "Number",
         required: true,
-        unique: true
+    
     } 
 
 })
